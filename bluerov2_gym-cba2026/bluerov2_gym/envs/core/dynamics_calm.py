@@ -1,7 +1,7 @@
 import numpy as np
 
 
-class Dynamics:
+class DynamicsCalm:
     # ==========================================
     # FLAG GLOBAL DO CENÁRIO
     # ==========================================
